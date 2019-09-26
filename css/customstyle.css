@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'collectionfreeregular';
+  src: url('../fonts/collection/collectionfree-webfont.woff2') format('woff2'),
+       url('../fonts/collection/collectionfree-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.headerTextToDisplay1 {
+  font-family: 'collectionfreeregular';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 800%;
+} 
+
+.homePageText {
+  font-family: 'collectionfreeregular';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 800%;
+  color: white;
+} 
+
+.headerTextToDisplay2 {
+  font-family: 'collectionfreeregular';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 700%;
+} 
+
