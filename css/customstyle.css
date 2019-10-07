@@ -63,6 +63,12 @@
     font-style: normal;
     font-size: 800%;
   }   
+  .headerTextWhenWhere {
+    font-family: 'collectionfreeregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 800%;
+  } 
 }
 
 /* Phone */
@@ -88,7 +94,12 @@
     font-family: 'collectionfreeregular';
     font-weight: normal;
     font-style: normal;
-    font-size: 500%;
+    font-size: 550%;
   } 
-  
+  .headerTextWhenWhere {
+    font-family: 'collectionfreeregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 550%;
+  } 
 }
