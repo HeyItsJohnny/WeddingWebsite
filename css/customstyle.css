@@ -13,14 +13,6 @@
   font-size: 800%;
 } 
 
-.homePageText {
-  font-family: 'collectionfreeregular';
-  font-weight: normal;
-  font-style: normal;
-  font-size: 800%;
-  padding-top: 5%;
-  color: white;
-} 
 
 /*.homePageText2 {
   font-family: 'collectionfreeregular';
@@ -48,6 +40,15 @@
 
 /* Windows */
 @media (min-width: 567px) {
+  .homePageText {
+    font-family: 'collectionfreeregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 800%;
+    padding-top: 5%;
+    color: white;
+  } 
+  
   .homePageText2 {
     font-family: 'collectionfreeregular';
     font-weight: normal;
@@ -60,6 +61,15 @@
 
 /* Phone */
 @media (max-width: 567px) {
+  .homePageText {
+    font-family: 'collectionfreeregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 400%;
+    padding-top: 5%;
+    color: white;
+  } 
+  
   .homePageText2 {
     font-family: 'collectionfreeregular';
     font-weight: normal;
