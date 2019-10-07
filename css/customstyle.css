@@ -22,14 +22,14 @@
   color: white;
 } 
 
-.homePageText2 {
+/*.homePageText2 {
   font-family: 'collectionfreeregular';
   font-weight: normal;
   font-style: normal;
   font-size: 600%;
   color: white;
   padding-bottom: 60%;
-} 
+} */
 
 .headerTextToDisplay2 {
   font-family: 'collectionfreeregular';
@@ -46,3 +46,26 @@
   color: black;
 } 
 
+/* Windows */
+@media (min-width: 567px) {
+  .homePageText2 {
+    font-family: 'collectionfreeregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 600%;
+    color: white;
+    padding-bottom: 60%;
+  } 
+}
+
+/* Phone */
+@media (max-width: 567px) {
+  .homePageText2 {
+    font-family: 'collectionfreeregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 400%;
+    color: white;
+    padding-bottom: 60%;
+  } 
+}
