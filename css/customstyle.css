@@ -6,22 +6,6 @@
   font-style: normal;
 }
 
-.headerTextToDisplay1 {
-  font-family: 'collectionfreeregular';
-  font-weight: normal;
-  font-style: normal;
-  font-size: 800%;
-} 
-
-
-/*.homePageText2 {
-  font-family: 'collectionfreeregular';
-  font-weight: normal;
-  font-style: normal;
-  font-size: 600%;
-  color: white;
-  padding-bottom: 60%;
-} */
 
 .headerTextToDisplay2 {
   font-family: 'collectionfreeregular';
@@ -30,13 +14,6 @@
   font-size: 700%;
 } 
 
-.headerTextToDisplay3 {
-  font-family: 'collectionfreeregular';
-  font-weight: normal;
-  font-style: normal;
-  font-size: 500%;
-  color: black;
-} 
 
 /* Windows */
 @media (min-width: 567px) {
@@ -85,6 +62,20 @@
     font-weight: normal;
     font-style: normal;
     font-size: 700%;
+  } 
+  .whenWhereNameText {
+    font-family: 'collectionfreeregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 500%;
+    color: black;
+  } 
+  .whenWhereDateText {
+    font-family: 'collectionfreeregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 500%;
+    color: black;
   } 
 }
 
@@ -136,5 +127,19 @@
     font-weight: normal;
     font-style: normal;
     font-size: 400%;
+  } 
+  .whenWhereNameText {
+    font-family: 'collectionfreeregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 350%;
+    color: black;
+  } 
+  .whenWhereDateText {
+    font-family: 'collectionfreeregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 500%;
+    color: black;
   } 
 }
