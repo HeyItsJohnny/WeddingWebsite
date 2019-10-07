@@ -57,6 +57,12 @@
     color: white;
     padding-bottom: 60%;
   } 
+  .headerTextOurStory {
+    font-family: 'collectionfreeregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 800%;
+  }   
 }
 
 /* Phone */
@@ -78,4 +84,11 @@
     color: white;
     padding-bottom: 10%;
   } 
+  .headerTextOurStory {
+    font-family: 'collectionfreeregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 500%;
+  } 
+  
 }
