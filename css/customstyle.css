@@ -80,6 +80,12 @@
     font-style: normal;
     font-size: 400%;
   } 
+  .headerTextToAccommodations {
+    font-family: 'collectionfreeregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 700%;
+  } 
 }
 
 /* Phone */
@@ -120,6 +126,12 @@
     font-size: 400%;
   } 
   .headerTextWhereItBegan {
+    font-family: 'collectionfreeregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 400%;
+  } 
+  .headerTextToAccommodations {
     font-family: 'collectionfreeregular';
     font-weight: normal;
     font-style: normal;
